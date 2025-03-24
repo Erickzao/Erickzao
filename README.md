@@ -36,6 +36,14 @@
 ###
 
 <div align="center">
+  <a href="https://discordapp.com/users/612488525786513417" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
   </a>
