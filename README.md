@@ -12,7 +12,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8668ad&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Erickzao" alt="Typing SVG" />
   </a>
   <h2 align="center">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> About Me
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
   </h2>
   
   <div align="center">
@@ -39,7 +39,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erickzao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Erickzao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Erickzao&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
