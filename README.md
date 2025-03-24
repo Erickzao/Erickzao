@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="110" src="https://i.pinimg.com/736x/aa/00/c3/aa00c34b7fc9e6a5cb357c25362da57d.jpg"  />
-</div>
-
-###
-
 <h2 align="center">𝐃𝐞𝐚𝐝 𝐌𝐞𝐦𝐨𝐫𝐢𝐞𝐬 𝐈𝐧 𝐌𝐲 𝐇𝐞𝐚𝐫𝐭</h2>
 
 ###
