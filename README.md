@@ -40,15 +40,28 @@
   <img src="https://streak-stats.demolab.com?user=Erickzao&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
 <!-- Footer -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#6696e&height=120&section=footer"/>
 </div>
-
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&cover_image=false&theme=default&show_offline=true&background_color=050505&interchange=false&bar_color=7225d0" />
   </a>
 </div>
-
-###
