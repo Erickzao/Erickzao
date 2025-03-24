@@ -3,17 +3,19 @@
 ###
 
 <div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/4c/97/f6/4c97f699ee7fe0d40c8b2f825f302b4d.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Erickzao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Erickzao&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/75/2e/ad/752ead3a7980117a1690aff13e01bf34.gif"  />
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Erickzao/count.svg?"  />
