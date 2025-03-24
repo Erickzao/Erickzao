@@ -2,13 +2,15 @@
 
 ###
 
-<img align="right" height="150" src="https://images.steamusercontent.com/ugc/1836902512973709536/F348C1B40D4A30959552C1B54352E6B09445955B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Erickzao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Erickzao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="right">
+  <img height="150" src="https://images.steamusercontent.com/ugc/1836902512973709536/F348C1B40D4A30959552C1B54352E6B09445955B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
@@ -30,10 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Erickzao/Erickzao/output/snake.svg" alt="Snake animation" />
 
 ###
 
