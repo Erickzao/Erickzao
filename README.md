@@ -70,9 +70,12 @@
 </div>
 <br clear="both">
 
+<br clear="both">
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Erickzao/count.svg?"  />
 </div>
+
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&cover_image=false&theme=default&show_offline=true&background_color=050505&interchange=false&bar_color=7225d0" />
