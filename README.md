@@ -28,11 +28,14 @@
     𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲
   </h2>
   
-  <div align="center">
+ <div align="center">
   <a href="https://discordapp.com/users/612488525786513417" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
+
+###
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -45,13 +48,17 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
