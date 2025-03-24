@@ -1,58 +1,57 @@
-<h2 align="center">𝐃𝐞𝐚𝐝 𝐌𝐞𝐦𝐨𝐫𝐢𝐞𝐬 𝐈𝐧 𝐌𝐲 𝐇𝐞𝐚𝐫𝐭</h2>
-
-###
-
+<!-- About Me Section -->
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/4c/97/f6/4c97f699ee7fe0d40c8b2f825f302b4d.gif"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header"/>
+  <!-- Profile Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Moyase" alt="Typing SVG" />
+  </a>
+  <h2 align="center">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> About Me
+  </h2>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/🌍%20Country-Ukraine-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎂%20Age-19-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💻%20Developer-blue?style=for-the-badge" />
+  </div>
 </div>
 
-###
-
+<!-- Project Section -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erickzao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Erickzao&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erickzao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Erickzao/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://discordapp.com/users/612488525786513417" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <h2 align="center">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> Current Project
+  </h2>
+  
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moyasee&repo=hydralibrary&theme=react&border_color=58A6FF&border_radius=10">
   </a>
 </div>
 
-###
-
+<!-- Contact Section -->
 <div align="center">
-  <a href="https://discordapp.com/users/612488525786513417" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <h2 align="center">
+    <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="25px"> Contact Me
+  </h2>
+  
+  <a href="https://t.me/moyase" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
-###
+<!-- GitHub Stats -->
+<div align="center">
+  <h2 align="center">
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px"> GitHub Stats
+  </h2>
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Moyasee&show_icons=true&theme=react&border_color=58A6FF&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Moyasee&theme=react&border=58A6FF&border_radius=10" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
+</div>
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&redirect=true">
