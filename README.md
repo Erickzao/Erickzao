@@ -35,6 +35,10 @@
 
 ###
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&redirect=true)
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g6wmtw4k2byjn4q5wdeybhpzt&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+  </a>
+</div>
 
 ###
