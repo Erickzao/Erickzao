@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://i.pinimg.com/originals/a9/ce/a1/a9cea1343aee0a2e7453fdabbc41c7f9.gif" width="300" height="169" style="display: block; opacity: 1;">
+  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif" width="300" height="169" style="display: block; opacity: 1;">
 </div>
 
 
