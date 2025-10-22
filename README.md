@@ -1,7 +1,7 @@
 ## 👋 About me
 Hello there! I'm **Erick Alexandre**, a 21-year-old Brazilian with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I aspire to work in this field in the future. Currently, my primary focus lies in developing projects related to full-stack web development.
 
-*full-stack developer & package maintainer at [E-way](https://github.com/eway-dev)*
+*full-stack developer/Quality Assurance/Chief Digital Officer & package maintainer at [E-way](https://github.com/eway-dev)*
 
 
 ## 💻 Langs & Tools
