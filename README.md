@@ -1,50 +1,20 @@
-### 𝑯𝒊，𝑬𝒓𝒊𝒄𝒌𝒛𝒂𝒐
+## 👋 About me
+Hello there! I'm **Erick Alexandre**, a 21-year-old Brazilian with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I aspire to work in this field in the future. Currently, my primary focus lies in developing projects related to full-stack web development.
+
+*full-stack developer & package maintainer at [E-way](https://github.com/eway-dev)*
 
 
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erickzao&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Erickzao&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Erickzao&theme=github" />
-  </a>
-</div>
+## 💻 Langs & Tools
 
-<div align="center">
-  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://i.pinimg.com/originals/fd/f1/dc/fdf1dc09512a1095cd66b7d1e711a17a.gif" width="300" height="169" style="display: block; opacity: 1;">
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,rust,prisma,git" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind,nestjs,postgresql,mongo" />
 
+## 🌐 Connect with me!
 
-<!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangly1024&show_icons=true&theme=ayu-mirage) -->
+[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/612488525786513417)
+[![X](https://skill-icons-v2.vercel.app/api/icons?i=x)](https://x.com/Erickzaooooooo)
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-</div>
-
+## 📊 Statistics
+[![Erickzao GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickzao&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/Erickzao)
+<br />
+[![Erickzao Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickzao&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Erickzao)
