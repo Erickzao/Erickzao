@@ -15,6 +15,4 @@ Hello there! I'm **Erick Alexandre**, a 21-year-old Brazilian with a growing pas
 [![X](https://skill-icons-v2.vercel.app/api/icons?i=x)](https://x.com/Erickzaooooooo)
 
 ## 📊 Statistics
-[![Erickzao GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickzao&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true)](https://github.com/Erickzao)
-<br />
-[![Erickzao Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickzao&layout=compact&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Erickzao)
+
