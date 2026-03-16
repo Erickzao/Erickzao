@@ -6,8 +6,8 @@ Hello there! I'm **Erick Alexandre**, a 21-year-old Brazilian with a growing pas
 
 ## 💻 Langs & Tools
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,rust,prisma,cs,go,elixir" />
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind,nestjs,postgresql,mongo,elysia,express,svelte" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,rust,prisma,cs,go,elixir,svelte" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind,nestjs,postgresql,mongo,elysia,express,scyladb" />
 
 ## 🌐 Connect with me!
 
