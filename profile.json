@@ -17,9 +17,7 @@
     "streak",
     "buttons"
   ],
-  "hidden": [
-    "buttons"
-  ],
+  "hidden": [],
   "hero": {
     "greeting": "hi, i'm",
     "name": "Erick",
@@ -33,7 +31,7 @@
       },
       {
         "icon": "work",
-        "label": "CDO @ E-way"
+        "label": "Tigoo Studios · EGB · Holics"
       },
       {
         "icon": "code",
@@ -49,12 +47,28 @@
         "label": "Full-stack developer"
       },
       {
-        "icon": "bug_report",
-        "label": "Quality Assurance"
+        "icon": "shield_lock",
+        "label": "Cybersecurity & AppSec"
+      },
+      {
+        "icon": "dns",
+        "label": "DevOps: servers, CI/CD and deploys"
+      },
+      {
+        "icon": "database",
+        "label": "Database design and administration"
+      },
+      {
+        "icon": "sports_esports",
+        "label": "Developer at Tigoo Studios"
+      },
+      {
+        "icon": "trophy",
+        "label": "Developer at Esportes Gaming Brasil"
       },
       {
         "icon": "rocket_launch",
-        "label": "Chief Digital Officer at E-way"
+        "label": "Developer at Holics"
       },
       {
         "icon": "package_2",
@@ -161,7 +175,7 @@
         ]
       },
       {
-        "title": "Data & Cloud",
+        "title": "Databases",
         "items": [
           {
             "icon": "brand:postgresql",
@@ -176,16 +190,41 @@
             "label": "MySQL"
           },
           {
+            "icon": "brand:redis",
+            "label": "Redis"
+          },
+          {
             "icon": "brand:apachecassandra",
             "label": "Cassandra"
-          },
+          }
+        ]
+      },
+      {
+        "title": "DevOps & Cloud",
+        "items": [
           {
             "icon": "brand:docker",
             "label": "Docker"
           },
           {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
             "icon": "cloud",
             "label": "AWS"
+          },
+          {
+            "icon": "brand:cloudflare",
+            "label": "Cloudflare"
+          },
+          {
+            "icon": "brand:vercel",
+            "label": "Vercel"
           }
         ]
       }
@@ -228,6 +267,10 @@
       {
         "icon": "brand:github",
         "url": "https://github.com/Erickzao"
+      },
+      {
+        "icon": "language",
+        "url": "https://erickzao.dev"
       }
     ],
     "variant": "chip",
@@ -236,6 +279,13 @@
     "shape": "soft"
   },
   "buttons": {
-    "items": []
+    "items": [
+      {
+        "icon": "language",
+        "label": "erickzao.dev",
+        "url": "https://erickzao.dev",
+        "style": "filled"
+      }
+    ]
   }
 }
