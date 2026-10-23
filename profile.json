@@ -1,0 +1,241 @@
+{
+  "version": 1,
+  "login": "Erickzao",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "hi, i'm",
+    "name": "Erick",
+    "subtitle": "Full-stack dev building fast, type-safe apps with TypeScript & Rust.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Brazil"
+      },
+      {
+        "icon": "work",
+        "label": "CDO @ E-way"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript, Rust, Go, Elixir"
+      }
+    ]
+  },
+  "about": {
+    "title": "I am",
+    "items": [
+      {
+        "icon": "code",
+        "label": "Full-stack developer"
+      },
+      {
+        "icon": "bug_report",
+        "label": "Quality Assurance"
+      },
+      {
+        "icon": "rocket_launch",
+        "label": "Chief Digital Officer at E-way"
+      },
+      {
+        "icon": "package_2",
+        "label": "Package maintainer"
+      },
+      {
+        "icon": "bolt",
+        "label": "Obsessed with performance and DX"
+      },
+      {
+        "icon": "favorite",
+        "label": "Open-source lover"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:elixir",
+            "label": "Elixir"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Frontend",
+        "items": [
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:svelte",
+            "label": "Svelte"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "items": [
+          {
+            "icon": "brand:bun",
+            "label": "Bun"
+          },
+          {
+            "icon": "bolt",
+            "label": "Elysia"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:nestjs",
+            "label": "NestJS"
+          },
+          {
+            "icon": "brand:express",
+            "label": "Express"
+          },
+          {
+            "icon": "brand:laravel",
+            "label": "Laravel"
+          },
+          {
+            "icon": "brand:prisma",
+            "label": "Prisma"
+          }
+        ]
+      },
+      {
+        "title": "Data & Cloud",
+        "items": [
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:mongodb",
+            "label": "MongoDB"
+          },
+          {
+            "icon": "brand:mysql",
+            "label": "MySQL"
+          },
+          {
+            "icon": "brand:apachecassandra",
+            "label": "Cassandra"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "cloud",
+            "label": "AWS"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub",
+    "stars": "Stars",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/612488525786513417"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/Erickzaooooooo"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/Erickzao"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": []
+  }
+}

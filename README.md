@@ -1,24 +1,21 @@
-## 👋 About me
-Hello there! I'm **Erick Alexandre**, a 21-year-old Brazilian with a growing passion for programming. I'm dedicated to improving my skills in the world of coding, and I aspire to work in this field in the future. Currently, my primary focus lies in developing projects related to full-stack web development.
+<div align="center">
 
-*full-stack developer/Quality Assurance/Chief Digital Officer & package maintainer at [E-way](https://github.com/eway-dev)*
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="hi, i&#x27;m Erick"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="28.309%" alt=""></picture><a href="https://discord.com/users/612488525786513417"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/Erickzaooooooo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="10.814%" alt="x"></picture></a><a href="https://github.com/Erickzao"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="16.014%" alt="github"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="28.309%" alt=""></picture>
 
-## 💻 Langs & Tools
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="I am"></picture>
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,rust,prisma,cs,go,elixir,svelte,docker,laravel,cpp" />
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind,nestjs,postgresql,mongo,elysia,express,cassandra,aws,bun,mysql" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-## 🌐 Connect with me!
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/612488525786513417)
-[![X](https://skill-icons-v2.vercel.app/api/icons?i=x)](https://x.com/Erickzaooooooo)
+<a href="https://github.com/Erickzao/gamehub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gamehub-dark.svg"><img src="assets/project-gamehub-light.svg" width="49%" alt="gamehub"></picture></a>&nbsp;<a href="https://github.com/Erickzao/chatlive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-chatlive-dark.svg"><img src="assets/project-chatlive-light.svg" width="49%" alt="chatlive"></picture></a>
 
-## 📊 Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erickzao&theme=dracula" alt="GitHub Streak Stats" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub"></picture>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erickzao&theme=dracula" alt="Contribution Graph" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<a href="https://metawka.github.io/expressive-profile/?from=Erickzao"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>

@@ -1,0 +1,226 @@
+{
+ "key": "c1cf3b31",
+ "stars": 0,
+ "contributions": 6179,
+ "repos": 6,
+ "followers": 20,
+ "languages": [
+  [
+   "JavaScript",
+   72427319
+  ],
+  [
+   "CSS",
+   31333214
+  ],
+  [
+   "TypeScript",
+   16054459
+  ],
+  [
+   "Python",
+   9871845
+  ],
+  [
+   "PHP",
+   6601986
+  ],
+  [
+   "HTML",
+   3325891
+  ],
+  [
+   "Svelte",
+   1479208
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 57,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 32,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 20,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 31,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 47,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 50,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 35
+ },
+ "pins": [
+  {
+   "name": "gamehub",
+   "url": "https://github.com/Erickzao/gamehub",
+   "text": "A modern RESTful API for accessing comprehensive video game information, including new releases, popular games, and store availability.",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "chatlive",
+   "url": "https://github.com/Erickzao/chatlive",
+   "text": "Real-time chat system built with TypeScript, Express, Socket.IO, and MongoDB.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "monocode",
+   "url": "https://github.com/Erickzao/monocode",
+   "text": "A GUI for your coding agents",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "react-native-tap-to-pix",
+   "url": "https://github.com/Erickzao/react-native-tap-to-pix",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "rzweb",
+   "url": "https://github.com/Erickzao/rzweb",
+   "text": "A complete browser-based reverse engineering platform built on Rizin, running entirely client-side via WebAssembly.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "chatlive",
+   "url": "https://github.com/Erickzao/chatlive",
+   "text": "Real-time chat system built with TypeScript, Express, Socket.IO, and MongoDB.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "gamehub",
+   "url": "https://github.com/Erickzao/gamehub",
+   "text": "A modern RESTful API for accessing comprehensive video game information, including new releases, popular games, and store availability.",
+   "fork": false,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Erickzao",
+   "url": "https://github.com/Erickzao/Erickzao",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
