@@ -1,8 +1,8 @@
 {
- "key": "58c5fce7",
+ "key": "d653ff9b",
  "stars": 0,
- "contributions": 6290,
- "repos": 6,
+ "contributions": 6291,
+ "repos": 7,
  "followers": 21,
  "languages": [
   [
@@ -115,7 +115,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 12,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 4,
+  "current": 5,
   "longest": 35
  },
  "pins": [
@@ -148,6 +148,15 @@
   }
  ],
  "all": [
+  {
+   "name": "agentes-chat",
+   "url": "https://github.com/Erickzao/agentes-chat",
+   "text": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
   {
    "name": "monocode",
    "url": "https://github.com/Erickzao/monocode",
