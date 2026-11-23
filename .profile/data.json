@@ -1,9 +1,9 @@
 {
- "key": "84cd6660",
+ "key": "b399d6e4",
  "stars": 0,
- "contributions": 6256,
+ "contributions": 6126,
  "repos": 7,
- "followers": 23,
+ "followers": 22,
  "languages": [
   [
    "TypeScript",
@@ -97,9 +97,13 @@
    {
     "c": 2,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null,
    null,
    null,
