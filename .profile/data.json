@@ -1,8 +1,8 @@
 {
- "key": "511ac6c7",
+ "key": "9e3677ae",
  "stars": 0,
- "contributions": 6129,
- "repos": 7,
+ "contributions": 6131,
+ "repos": 9,
  "followers": 22,
  "languages": [
   [
@@ -105,7 +105,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 24,
     "today": true
    },
@@ -116,7 +116,7 @@
   ]
  ],
  "streak": {
-  "current": 7,
+  "current": 8,
   "longest": 35
  },
  "pins": [
@@ -140,6 +140,24 @@
   }
  ],
  "all": [
+  {
+   "name": "shirudo",
+   "url": "https://github.com/Erickzao/shirudo",
+   "text": "eBPF-based security platform",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "ARTEX",
+   "url": "https://github.com/Erickzao/ARTEX",
+   "text": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
   {
    "name": "agentes-chat",
    "url": "https://github.com/Erickzao/agentes-chat",
